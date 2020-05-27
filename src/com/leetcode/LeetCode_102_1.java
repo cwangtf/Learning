@@ -1,7 +1,7 @@
 package com.leetcode;
 
-import com.xingseng.utils.Tree;
-import com.xingseng.utils.TreeNode;
+import com.leetcode.utils.Tree;
+import com.leetcode.utils.TreeNode;
 
 import java.util.ArrayDeque;
 import java.util.ArrayList;
