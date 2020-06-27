@@ -7,6 +7,8 @@ import java.util.HashSet;
 import java.util.Set;
 
 /**
+ * 移除重复节点
+ *
  * @author xing_seng
  * @date 2020/6/26
  */
