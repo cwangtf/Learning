@@ -1,7 +1,5 @@
 package com.leetcode;
 
-import java.util.Random;
-
 /**
  * 215. 数组中的第K个最大元素
  *
