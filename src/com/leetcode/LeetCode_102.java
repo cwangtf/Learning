@@ -1,5 +1,7 @@
 package com.leetcode;
 
+import com.leetcode.utils.TreeNode;
+
 import java.util.ArrayDeque;
 import java.util.ArrayList;
 import java.util.List;
@@ -79,15 +81,4 @@ public class LeetCode_102 {
         return res;
     }
 
-
-
-    public class TreeNode {
-        int val;
-        TreeNode left;
-        TreeNode right;
-
-        TreeNode(int x) {
-            val = x;
-        }
-    }
 }
