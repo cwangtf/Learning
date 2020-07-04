@@ -5,7 +5,7 @@ import com.leetcode.utils.TreeNode;
 import java.util.Random;
 
 /**
- * 108. 将有序数组转换为二叉搜索树
+ * 108. 将有序数组转换为二叉搜索树(easy)
  * 中序遍历
  * https://leetcode-cn.com/problems/convert-sorted-array-to-binary-search-tree/
  *

@@ -1,7 +1,8 @@
 package com.leetcode;
 
 /**
- * 718. 最长重复子数组
+ * 718. 最长重复子数组(medium)
+ * https://leetcode-cn.com/problems/maximum-length-of-repeated-subarray
  * 动态规划
  *
  * @author xing_seng

@@ -1,7 +1,9 @@
 package com.leetcode;
 
 /**
- * 41. 缺失的第一个正数
+ * 41. 缺失的第一个正数(hard)
+ * https://leetcode-cn.com/problems/first-missing-positive
+ * 置换
  *
  * @author xing_seng
  * @date 2020/6/27

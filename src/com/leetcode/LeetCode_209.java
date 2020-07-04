@@ -1,7 +1,9 @@
 package com.leetcode;
 
 /**
- * 209. 长度最小的子数组(双指针)
+ * 209. 长度最小的子数组(medium)
+ * https://leetcode-cn.com/problems/minimum-size-subarray-sum
+ * 双指针
  *
  * @author xing_seng
  * @date 2020/6/28

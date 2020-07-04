@@ -1,7 +1,8 @@
 package com.leetcode;
 
 /**
- * 378. 有序矩阵中第K小的元素
+ * 378. 有序矩阵中第K小的元素(medium)
+ * https://leetcode-cn.com/problems/kth-smallest-element-in-a-sorted-matrix
  * 二分查找
  *
  * @author xing_seng

@@ -7,7 +7,9 @@ import java.util.HashSet;
 import java.util.Set;
 
 /**
- * 移除重复节点
+ * 移除重复节点(easy)
+ * https://leetcode-cn.com/problems/remove-duplicate-node-lcci
+ * 哈希表
  *
  * @author xing_seng
  * @date 2020/6/26
