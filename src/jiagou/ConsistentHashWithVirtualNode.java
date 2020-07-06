@@ -12,16 +12,16 @@ public class ConsistentHashWithVirtualNode {
 
     private String[] serversArr;
 
-    // 真实服务器节点
+    /** 真实服务器节点 */
     private List<String> realNodes = new LinkedList<>();
 
-    // 虚拟节点，key表示虚拟节点的hash值，value表示虚拟节点名称
+    /** 虚拟节点，key表示虚拟节点的hash值，value表示虚拟节点名称 */
     private SortedMap<Integer, String> virtualNodes = new TreeMap<>();
 
-    // 服务器访问统计
+    /** 服务器访问统计 */
     private TreeMap<String, Integer> serverVisit = new TreeMap<>();
 
-    // 虚拟节点数量
+    /** 虚拟节点数量 */
     private int virtualNodesNum;
 
     public ConsistentHashWithVirtualNode(String[] servers, int virtualNodesNum) {
@@ -99,7 +99,11 @@ public class ConsistentHashWithVirtualNode {
         serverVisit.put(virtualNode, serverVisit.get(virtualNode) + 1);
     }
 
-    // 求标准差
+    /**
+     * 求标准差
+     *
+     * @return double
+     */
     public double getStd() {
         Integer[] visitData = new Integer[serverVisit.size()];
         serverVisit.values().toArray(visitData);
