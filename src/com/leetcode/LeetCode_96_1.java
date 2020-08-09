@@ -4,7 +4,7 @@ package com.leetcode;
  * @author xing_seng
  * @date 2020/7/15
  */
-public class LeetCode_93_1 {
+public class LeetCode_96_1 {
     public int numTrees(int n) {
         int[] G = new int[n + 1];
         G[0] = 1;
