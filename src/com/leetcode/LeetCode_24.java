@@ -6,6 +6,7 @@ import com.leetcode.utils.ListNode;
  * 24. 两两交换链表中的节点(medium)
  * https://leetcode-cn.com/problems/swap-nodes-in-pairs/
  * 一、递归，时间复杂度O(n)，空间复杂度O(n)
+ * 二、迭代，时间复杂度O(n)，空间复杂度O(1)
  *
  * @author xing_seng
  * @date 2020/10/13
