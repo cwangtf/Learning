@@ -1,7 +1,7 @@
 package proxy.test;
 
 /**
- * @author xingseng
+ * @author wangtf
  * @date 2020/8/26
  */
 public interface Target {
