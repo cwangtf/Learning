@@ -5,7 +5,7 @@ package com.leetcode;
  * https://leetcode-cn.com/problems/robot-return-to-origin
  * 模拟，时间复杂度O(N)，空间复杂度O(1)
  *
- * @author xing_seng
+ * @author wangtf
  * @date 2020/8/28
  */
 public class LeetCode_657 {

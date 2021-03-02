@@ -3,7 +3,7 @@ package com.leetcode;
 import java.util.Stack;
 
 /**
- * @author xing_seng
+ * @author wangtf
  * @date 2020/7/4
  */
 public class LeetCode_32_1 {

@@ -8,7 +8,7 @@ import com.leetcode.utils.ListNode;
  * 一、递归，时间复杂度O(n)，空间复杂度O(n)
  * 二、迭代，时间复杂度O(n)，空间复杂度O(1)
  *
- * @author xing_seng
+ * @author wangtf
  * @date 2020/10/13
  */
 public class LeetCode_24 {

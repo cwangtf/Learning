@@ -11,7 +11,7 @@ import java.util.List;
  * https://leetcode-cn.com/problems/path-sum-ii/
  * 一、DFS，时间复杂度O(N^2)，空间复杂度O(N)
  *
- * @author xing_seng
+ * @author wangtf
  * @date 2020/9/26
  */
 public class LeetCode_113 {

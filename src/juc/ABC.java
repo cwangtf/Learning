@@ -6,7 +6,7 @@ import java.util.concurrent.locks.ReentrantLock;
 /**
  * 有A,B,C三个线程, A线程输出A, B线程输出B, C线程输出C，要求, 同时启动三个线程, 按顺序输出ABC, 循环10次。
  *
- * @author xing_seng
+ * @author wangtf
  * @date 2020/7/21
  */
 public class ABC {

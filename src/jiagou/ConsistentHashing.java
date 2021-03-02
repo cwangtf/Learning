@@ -11,7 +11,7 @@ import java.util.TreeMap;
 /**
  * 一致性hash answer
  *
- * @author xing_seng
+ * @author wangtf
  * @date 2020/7/11
  */
 public class ConsistentHashing {

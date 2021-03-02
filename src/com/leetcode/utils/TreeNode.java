@@ -1,7 +1,7 @@
 package com.leetcode.utils;
 
 /**
- * @author xing_seng
+ * @author wangtf
  * @date 2020/5/27
  */
 public class TreeNode {

@@ -6,7 +6,7 @@ package com.leetcode;
  * 二分查找
  * 时间复杂度O(logN),空间复杂度O(1)
  *
- * @author xing_seng
+ * @author wangtf
  * @date 2020/7/17
  */
 public class LeetCode_35 {

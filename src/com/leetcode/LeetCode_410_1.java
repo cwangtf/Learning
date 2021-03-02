@@ -1,7 +1,7 @@
 package com.leetcode;
 
 /**
- * @author xing_seng
+ * @author wangtf
  * @date 2020/7/25
  */
 public class LeetCode_410_1 {

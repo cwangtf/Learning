@@ -5,7 +5,7 @@ import java.util.*;
 /**
  * 带虚拟节点的一致性hash
  *
- * @author xing_seng
+ * @author wangtf
  * @date 2020/7/5
  */
 public class ConsistentHashWithVirtualNode {

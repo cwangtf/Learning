@@ -5,7 +5,7 @@ package com.leetcode;
  * https://leetcode-cn.com/problems/maximum-length-of-repeated-subarray
  * 动态规划
  *
- * @author xing_seng
+ * @author wangtf
  * @date 2020/7/1
  */
 public class LeetCode_718 {

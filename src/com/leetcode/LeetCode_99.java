@@ -9,7 +9,7 @@ import java.util.List;
  * 99. 恢复二叉搜索树(hard)
  * https://leetcode-cn.com/problems/recover-binary-search-tree
  *
- * @author xing_seng
+ * @author wangtf
  * @date 2020/8/8
  */
 public class LeetCode_99 {

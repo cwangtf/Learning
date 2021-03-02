@@ -7,7 +7,7 @@ import com.leetcode.utils.TreeNode;
  * https://leetcode-cn.com/problems/merge-two-binary-trees/
  * DFS，时间复杂度O(min(m,n))，空间复杂度O(min(m,n))
  *
- * @author xing_seng
+ * @author wangtf
  * @date 2020/9/23
  */
 public class LeetCode_617 {

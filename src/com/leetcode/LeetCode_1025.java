@@ -5,7 +5,7 @@ package com.leetcode;
  * https://leetcode-cn.com/problems/divisor-game
  * 智力题
  *
- * @author xing_seng
+ * @author wangtf
  * @date 2020/7/24
  */
 public class LeetCode_1025 {

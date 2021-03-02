@@ -8,7 +8,7 @@ package com.leetcode;
  * 滚动数组思想
  * 动规分类：一、求最优解类（递推性质叫最优子结构），典型问题是背包问题；二、计数类，统计方案数问题（此题）
  *
- * @author xing_seng
+ * @author wangtf
  * @date 2020/7/6
  */
 public class LeetCode_63 {

@@ -10,7 +10,7 @@ import java.util.Queue;
  * https://leetcode-cn.com/problems/path-sum
  * 广度优先搜索、递归
  *
- * @author xing_seng
+ * @author wangtf
  * @date 2020/7/7
  */
 public class LeetCode_112 {

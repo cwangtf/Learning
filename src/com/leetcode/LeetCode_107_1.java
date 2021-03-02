@@ -7,7 +7,7 @@ import java.util.List;
 import java.util.Queue;
 
 /**
- * @author xing_seng
+ * @author wangtf
  * @date 2020/9/6
  */
 public class LeetCode_107_1 {

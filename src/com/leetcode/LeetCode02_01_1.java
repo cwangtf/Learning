@@ -9,7 +9,7 @@ import java.util.Set;
 /**
  * 移除重复节点
  *
- * @author xing_seng
+ * @author wangtf
  * @date 2020/6/26
  */
 public class LeetCode02_01_1 {

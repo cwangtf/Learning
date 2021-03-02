@@ -9,7 +9,7 @@ import com.leetcode.utils.TreeNode;
  * 一、分治，时间复杂度O(nlogn)，空间复杂度O(logn)
  * 二、分治 + 中序遍历优化，时间复杂度O(n)，空间复杂度O(logn)
  *
- * @author xing_seng
+ * @author wangtf
  * @date 2020/8/18
  */
 public class LeetCode_109 {

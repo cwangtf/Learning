@@ -10,7 +10,7 @@ import java.util.Map;
  * https://leetcode-cn.com/problems/valid-parentheses
  * 栈，时间复杂度O(n)，空间复杂度O(n + E)
  *
- * @author xing_seng
+ * @author wangtf
  * @date 2020/8/14
  */
 public class LeetCode_20 {

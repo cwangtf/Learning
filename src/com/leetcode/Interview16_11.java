@@ -5,7 +5,7 @@ package com.leetcode;
  * https://leetcode-cn.com/problems/diving-board-lcci
  * 数学归纳(时间复杂度O(k)，空间复杂度O(1))
  *
- * @author xing_seng
+ * @author wangtf
  * @date 2020/7/8
  */
 public class Interview16_11 {

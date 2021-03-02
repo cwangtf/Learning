@@ -6,7 +6,7 @@ package com.leetcode;
  * 一、暴力法，时间复杂度O(n)，空间复杂度O(1)
  * 二、二分剪枝，最优O(logN)，最坏O(N),空间复杂度O(N)
  *
- * @author xing_seng
+ * @author wangtf
  * @date 2020/7/31
  */
 public class Interview08_03 {

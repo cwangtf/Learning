@@ -3,7 +3,7 @@ package com.leetcode;
 /**
  * 209. 长度最小的子数组(双指针)
  *
- * @author xing_seng
+ * @author wangtf
  * @date 2020/6/28
  */
 public class LeetCode_209_1 {

@@ -8,7 +8,7 @@ import java.util.List;
  * https://leetcode-cn.com/problems/course-schedule
  * 深度优先搜索，时间复杂度O(m+n)，空间复杂度O(m+n)
  *
- * @author xing_seng
+ * @author wangtf
  * @date 2020/8/4
  */
 public class LeetCode_207_dfs {

@@ -10,7 +10,7 @@ import java.util.List;
  * https://leetcode-cn.com/problems/binary-tree-postorder-traversal/
  * 一、递归，时间复杂度O(n)，空间复杂度O(n)
  *
- * @author xing_seng
+ * @author wangtf
  * @date 2020/9/29
  */
 public class LeetCode_145 {

@@ -7,7 +7,7 @@ import com.leetcode.utils.TreeNode;
  * https://leetcode-cn.com/problems/minimum-absolute-difference-in-bst/
  * 中序遍历，时间复杂度O(n)，空间复杂度O(n)
  *
- * @author xing_seng
+ * @author wangtf
  * @date 2020/10/12
  */
 public class LeetCode_530 {

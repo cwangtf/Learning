@@ -5,7 +5,7 @@ package com.leetcode;
  * https://leetcode-cn.com/problems/smallest-range-covering-elements-from-k-lists
  *
  *
- * @author xing_seng
+ * @author wangtf
  * @date 2020/8/2
  */
 public class LeetCode_632 {

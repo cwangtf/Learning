@@ -7,7 +7,7 @@ import com.leetcode.utils.ListNode;
  * https://leetcode-cn.com/problems/linked-list-cycle/
  * 快慢指针，时间复杂度O(n)，空间复杂度O(1)
  *
- * @author xing_seng
+ * @author wangtf
  * @date 2020/10/9
  */
 public class LeetCode_141 {

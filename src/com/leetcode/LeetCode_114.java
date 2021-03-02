@@ -14,7 +14,7 @@ import java.util.List;
  * 二、前序遍历+展开同步
  * 三、寻找前驱节点，时间复杂度O(n)，空间复杂度O(1)
  *
- * @author xing_seng
+ * @author wangtf
  * @date 2020/8/2
  */
 public class LeetCode_114 {

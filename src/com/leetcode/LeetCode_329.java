@@ -5,7 +5,7 @@ package com.leetcode;
  * https://leetcode-cn.com/problems/longest-increasing-path-in-a-matrix
  * 一、记忆化深度优先搜索，时间复杂度O(mn)，空间复杂度O(mn)；二、动态规划
  *
- * @author xing_seng
+ * @author wangtf
  * @date 2020/7/26
  */
 public class LeetCode_329 {

@@ -6,7 +6,7 @@ import java.util.LinkedList;
 import java.util.Map;
 
 /**
- * @author xing_seng
+ * @author wangtf
  * @date 2020/8/14
  */
 public class LeetCode_20_1 {

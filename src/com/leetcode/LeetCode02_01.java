@@ -11,7 +11,7 @@ import java.util.Set;
  * https://leetcode-cn.com/problems/remove-duplicate-node-lcci
  * 哈希表
  *
- * @author xing_seng
+ * @author wangtf
  * @date 2020/6/26
  */
 public class LeetCode02_01 {

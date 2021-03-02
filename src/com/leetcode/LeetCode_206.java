@@ -7,7 +7,7 @@ import com.leetcode.utils.ListNodeUtil;
  * 206. 反转链表(easy)
  * https://leetcode-cn.com/problems/reverse-linked-list
  *
- * @author xing_seng
+ * @author wangtf
  * @date 2020/7/4
  */
 public class LeetCode_206 {

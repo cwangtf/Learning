@@ -9,7 +9,7 @@ package com.leetcode;
  * i = 0 且 j > 0时,dp[0][j] = dp[0][j - 1] + grid[0][j];
  * i > 0 且 j > 0时,dp[i][j] = min(dp[i - 1][j], dp[i][j - 1]) + grid[i][j]
  *
- * @author xing_seng
+ * @author wangtf
  * @date 2020/7/23
  */
 public class LeetCode_64 {

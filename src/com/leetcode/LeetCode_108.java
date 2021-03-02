@@ -9,7 +9,7 @@ import java.util.Random;
  * 中序遍历
  * https://leetcode-cn.com/problems/convert-sorted-array-to-binary-search-tree/
  *
- * @author xing_seng
+ * @author wangtf
  * @date 2020/7/3
  */
 public class LeetCode_108 {

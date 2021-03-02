@@ -5,7 +5,7 @@ package com.leetcode;
  * https://leetcode-cn.com/problems/integer-break
  * 动态规划
  *
- * @author xing_seng
+ * @author wangtf
  * @date 2020/7/30
  */
 public class LeetCode_343 {

@@ -9,7 +9,7 @@ package com.leetcode;
  * 15. 三数之和 https://leetcode-cn.com/problems/3sum
  * 26. 删除排序数组中的重复项 https://leetcode-cn.com/problems/remove-duplicates-from-sorted-array
  *
- * @author xing_seng
+ * @author wangtf
  * @date 2020/7/20
  */
 public class LeetCode_167 {

@@ -6,7 +6,7 @@ import java.util.LinkedList;
 /**
  * 剑指 Offer 09. 用两个栈实现队列
  *
- * @author xing_seng
+ * @author wangtf
  * @date 2020/6/30
  */
 public class CQueue1 {

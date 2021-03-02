@@ -9,7 +9,7 @@ package com.leetcode;
  * f[i][1] f[i - 1][0] + price[i]
  * f[i][2] max(f[i - 1][1], f[i - 1][2])
  *
- * @author xing_seng
+ * @author wangtf
  * @date 2020/7/10
  */
 public class LeetCode_309 {

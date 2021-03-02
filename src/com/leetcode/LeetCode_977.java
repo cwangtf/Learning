@@ -6,7 +6,7 @@ package com.leetcode;
  * 一、直接排序，时间复杂度O(nlogn)，空间复杂度O(logn)
  * 二、优化的双指针，时间复杂度O(n)，空间复杂度O(1)
  *
- * @author xing_seng
+ * @author wangtf
  * @date 2020/10/16
  */
 public class LeetCode_977 {

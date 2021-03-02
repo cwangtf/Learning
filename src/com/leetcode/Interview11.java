@@ -11,7 +11,7 @@ package com.leetcode;
  * 153. 寻找旋转排序数组中的最小值(medium)
  * https://leetcode-cn.com/problems/find-minimum-in-rotated-sorted-array
  *
- * @author xing_seng
+ * @author wangtf
  * @date 2020/7/22
  */
 public class Interview11 {

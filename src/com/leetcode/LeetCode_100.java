@@ -12,7 +12,7 @@ import java.util.Queue;
  * 方法一：dfs，时间复杂度O(min(m,n))，空间复杂度O(min(m,n))
  * 方法二：bfs，时间复杂度O(min(m,n))，空间复杂度O(min(m,n))
  *
- * @author xing_seng
+ * @author wangtf
  * @date 2020/8/7
  */
 public class LeetCode_100 {

@@ -7,7 +7,7 @@ import java.util.Arrays;
  * https://leetcode-cn.com/problems/split-array-largest-sum
  * 一、动态规划；二、二分查找+贪心
  *
- * @author xing_seng
+ * @author wangtf
  * @date 2020/7/25
  */
 public class LeetCode_410 {

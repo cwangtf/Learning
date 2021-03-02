@@ -5,7 +5,7 @@ package com.leetcode;
  * https://leetcode-cn.com/problems/wildcard-matching
  * 动规、贪心
  *
- * @author xing_seng
+ * @author wangtf
  * @date 2020/7/5
  */
 public class LeetCode_44 {

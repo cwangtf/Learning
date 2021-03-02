@@ -4,7 +4,7 @@ import com.leetcode.utils.ListNode;
 import com.leetcode.utils.TreeNode;
 
 /**
- * @author xing_seng
+ * @author wangtf
  * @date 2020/8/18
  */
 public class LeetCode_109_1 {

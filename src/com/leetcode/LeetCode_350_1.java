@@ -5,7 +5,7 @@ import java.util.HashMap;
 import java.util.Map;
 
 /**
- * @author xing_seng
+ * @author wangtf
  * @date 2020/7/13
  */
 public class LeetCode_350_1 {

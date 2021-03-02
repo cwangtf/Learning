@@ -5,7 +5,7 @@ package com.leetcode;
  * https://leetcode-cn.com/problems/reverse-string/
  * 双指针，时间内复杂度O(n)，空间复杂度O(1)
  *
- * @author xing_seng
+ * @author wangtf
  * @date 2020/10/8
  */
 public class LeetCode_344 {

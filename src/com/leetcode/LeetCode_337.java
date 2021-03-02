@@ -10,7 +10,7 @@ import com.leetcode.utils.TreeNode;
  * f(o) = g(l) + g(r)
  * g(0) = max{f(l), g(l)} + max{f(r), g(r)}
  *
- * @author xing_seng
+ * @author wangtf
  * @date 2020/8/5
  */
 public class LeetCode_337 {

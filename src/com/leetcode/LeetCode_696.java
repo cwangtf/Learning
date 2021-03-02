@@ -5,7 +5,7 @@ package com.leetcode;
  * https://leetcode-cn.com/problems/count-binary-substrings
  * 按字符分组，空间优化，只记录上一次值，时间复杂度O(n)，空间复杂度O(1)
  *
- * @author xing_seng
+ * @author wangtf
  * @date 2020/8/10
  */
 public class LeetCode_696 {

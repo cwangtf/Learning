@@ -3,7 +3,7 @@ package com.leetcode;
 /**
  * 41. 缺失的第一个正数
  *
- * @author xing_seng
+ * @author wangtf
  * @date 2020/6/27
  */
 public class LeetCode_41_1 {

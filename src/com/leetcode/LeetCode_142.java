@@ -10,7 +10,7 @@ import java.util.Set;
  * https://leetcode-cn.com/problems/linked-list-cycle-ii/
  * 哈希表，时间复杂度O(n)，空间复杂度O(n)，快慢指针，时间复杂度O(n)，空间复杂度O(1)
  *
- * @author xing_seng
+ * @author wangtf
  * @date 2020/10/10
  */
 public class LeetCode_142 {

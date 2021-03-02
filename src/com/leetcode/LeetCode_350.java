@@ -9,7 +9,7 @@ import java.util.Map;
  * https://leetcode-cn.com/problems/intersection-of-two-arrays-ii
  * 解法一、哈希表；解法二、排序
  *
- * @author xing_seng
+ * @author wangtf
  * @date 2020/7/13
  */
 public class LeetCode_350 {

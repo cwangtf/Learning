@@ -7,7 +7,7 @@ import java.util.*;
  * https://leetcode-cn.com/problems/count-of-smaller-numbers-after-self
  * 离散化树状数组
  *
- * @author xing_seng
+ * @author wangtf
  * @date 2020/7/11
  */
 public class LeetCode_315 {

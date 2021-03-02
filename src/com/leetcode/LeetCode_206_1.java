@@ -3,7 +3,7 @@ package com.leetcode;
 import com.leetcode.utils.ListNode;
 
 /**
- * @author xing_seng
+ * @author wangtf
  * @date 2020/7/4
  */
 public class LeetCode_206_1 {

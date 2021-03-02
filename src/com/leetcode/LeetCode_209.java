@@ -5,7 +5,7 @@ package com.leetcode;
  * https://leetcode-cn.com/problems/minimum-size-subarray-sum
  * 双指针
  *
- * @author xing_seng
+ * @author wangtf
  * @date 2020/6/28
  */
 public class LeetCode_209 {

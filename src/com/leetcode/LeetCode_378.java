@@ -5,7 +5,7 @@ package com.leetcode;
  * https://leetcode-cn.com/problems/kth-smallest-element-in-a-sorted-matrix
  * 二分查找
  *
- * @author xing_seng
+ * @author wangtf
  * @date 2020/7/2
  */
 public class LeetCode_378 {

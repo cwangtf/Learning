@@ -5,7 +5,7 @@ package com.leetcode;
  * https://leetcode-cn.com/problems/kth-largest-element-in-an-array
  * 快排
  *
- * @author xing_seng
+ * @author wangtf
  * @date 2020/6/29
  */
 public class LeetCode_215 {

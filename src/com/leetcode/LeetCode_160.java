@@ -10,7 +10,7 @@ import com.leetcode.utils.ListNodeUtil;
  * 二、hash表优化(将第一个链表用hash存起来，判断第二个是否命中)
  * 三、双指针法()
  *
- * @author xing_seng
+ * @author wangtf
  * @date 2020/7/25
  */
 public class LeetCode_160 {

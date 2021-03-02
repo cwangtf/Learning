@@ -7,7 +7,7 @@ import java.util.Stack;
  * https://leetcode-cn.com/problems/longest-valid-parentheses
  * 动规、栈
  *
- * @author xing_seng
+ * @author wangtf
  * @date 2020/7/4
  */
 public class LeetCode_32 {

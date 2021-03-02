@@ -16,7 +16,7 @@ import java.util.concurrent.TimeUnit;
 /**
  * 压测代码参考
  *
- * @author xing_seng
+ * @author wangtf
  * @date 2020/7/24
  */
 public class PressureTestOld {

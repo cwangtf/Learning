@@ -8,7 +8,7 @@ import java.util.Map;
  * https://leetcode-cn.com/problems/two-sum/
  * 哈希表，时间复杂度O(N)，空间复杂度O(N)
  *
- * @author xing_seng
+ * @author wangtf
  * @date 2020/10/3
  */
 public class LeetCode_1 {

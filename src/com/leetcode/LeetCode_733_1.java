@@ -4,7 +4,7 @@ import java.util.LinkedList;
 import java.util.Queue;
 
 /**
- * @author xing_seng
+ * @author wangtf
  * @date 2020/8/16
  */
 public class LeetCode_733_1 {

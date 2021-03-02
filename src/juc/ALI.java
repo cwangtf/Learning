@@ -12,7 +12,7 @@ import java.util.concurrent.locks.ReentrantLock;
  * 在三个线程同时启动的情况下，请用合理的方式让他们按顺序打印 ALIALI。
  * 三个线程开始正常输出后，主线程若检测到用户任意的输入则停止三个打印线程的工 作，整体退出。
  *
- * @author xing_seng
+ * @author wangtf
  * @date 2020/7/21
  */
 public class ALI {

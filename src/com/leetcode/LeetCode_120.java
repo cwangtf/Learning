@@ -7,7 +7,7 @@ import java.util.List;
  * https://leetcode-cn.com/problems/triangle
  * 一、动态规划；二、动态规划+空间优化
  *
- * @author xing_seng
+ * @author wangtf
  * @date 2020/7/14
  */
 public class LeetCode_120 {

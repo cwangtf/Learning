@@ -5,7 +5,7 @@ package com.leetcode;
  * https://leetcode-cn.com/problems/xun-bao
  * 动态规划。。。待解
  *
- * @author xing_seng
+ * @author wangtf
  * @date 2020/7/29
  */
 public class Lcp13 {

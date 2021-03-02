@@ -7,7 +7,7 @@ import java.util.Arrays;
  * https://leetcode-cn.com/problems/re-space-lcci
  * 方法一：Trie树+动规，方法二：字符串哈希
  *
- * @author xing_seng
+ * @author wangtf
  * @date 2020/7/9
  */
 public class Interview17_13 {

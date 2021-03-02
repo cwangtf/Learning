@@ -6,7 +6,7 @@ package com.leetcode;
  * 一、位移，时间复杂度O(logN)，空间复杂度O(1)
  * 二、Brian Kernighan 算法，时间复杂度O(logN)，空间复杂度O(1)
  *
- * @author xing_seng
+ * @author wangtf
  * @date 2020/8/23
  */
 public class LeetCode_201 {

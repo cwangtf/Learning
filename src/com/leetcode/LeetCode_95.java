@@ -11,7 +11,7 @@ import java.util.List;
  * 递归
  * 二叉搜索树关键的性质是根节点的值大于左子树所有节点的值，小于右子树所有节点的值，且左子树和右子树也同样为二叉搜索树
  *
- * @author xing_seng
+ * @author wangtf
  * @date 2020/7/21
  */
 public class LeetCode_95 {

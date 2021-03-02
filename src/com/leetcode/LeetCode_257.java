@@ -11,7 +11,7 @@ import java.util.List;
  * 一、DFS，时间复杂度O(N^2)，空间复杂度O(N^2)
  * 二、BFS，时间复杂度O(N^2)，空间复杂度O(N^2)
  *
- * @author xing_seng
+ * @author wangtf
  * @date 2020/9/4
  */
 public class LeetCode_257 {
