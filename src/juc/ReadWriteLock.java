@@ -52,7 +52,7 @@ public class ReadWriteLock {
     }
 
     /**
-     * 释放读锁
+     * 释放写锁
      */
     public synchronized void unlockWrite() {
         writeCount--;
